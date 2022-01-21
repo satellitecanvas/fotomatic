@@ -119,6 +119,10 @@ header .mobile {
   height: 43.5rem;
 }
 
+#sign-up-section .banner {
+  background-image: url(/resources/images/banner-landingpage.jpg);
+}
+
 #sign-up-cta {
   padding: 0 5rem 2.5rem 5rem;
   border: solid 1px #979797;
